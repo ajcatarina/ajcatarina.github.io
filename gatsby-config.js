@@ -1,7 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: `AJ Catarina`,
-    description: `Software Engineer`,
+    description: `AJ. AJ (Ariel Jay) Catarina is a licensed Electronics Engineer 
+    who fell in love with web and mobile development. Instead of pursuing a career
+    in electronics design and manufacturing, he dedicated himself in learning more
+    about coding. This passion began when he knew about React. He was amazed about the
+    enthusiasm of developers for this revolutionary technology. Eventually, as his
+    knowledge grew, he got hit by the same arrow.`,
     author: `AJ Catarina`,
   },
   plugins: [
@@ -18,13 +23,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `portfolio`,
+        short_name: `portfolio`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
