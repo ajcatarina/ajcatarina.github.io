@@ -1,0 +1,42 @@
+bio: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante
+  neque. Aenean tincidunt ultrices lobortis. Aliquam erat volutpat.  Integer
+  convallis dignissim elementum. Vestibulum magna nunc, vestibulum sit
+  amet lorem nec, vehicula vehicula urna. Quisque auctor risus eget tempus
+  luctus. Integer vulputate non tortor id sollicitudin.\n\nJust kidding!
+  Here’s my real bio.\n\nI’m a self-taught software engineer who’s still
+  working to become better each day. Complex projects excite me specially those
+  that would squeeze out my creativity. I love solving problems but as much as
+  possible, I want to make sure that the solutions I bring are clean, scalable,
+  and well designed.\n\nI graduated with electronics engineering degree but I
+  guess I just love creating software products. I still save up for my ambitious
+  electronics projects though. \n\nI currently develop apps with React and
+  NodeJS (AWS Lambda).
+
+skill_set:
+  - JavaScript
+  - Python
+  - Shell Script
+  - Object Oriented Programming
+  - HTML5/CSS3
+  - SAP ABAP
+  - Graphics Design
+
+libraries_frameworks:
+  - ReactJS
+  - AWS (Amplify, S3, DynamoDB, Lambda)
+  - Ionic 4, Capacitor, Cordova
+  - React Material-UI, TailwindCSS
+  - MongoDB, MongoDB Stitch
+  - Jest, Enzyme
+  - GraphQL
+  - GatsbyJS
+  - MeteorJS
+
+tools:
+  - Vim
+  - OSX, Linux
+  - Docker
+  - webpack, Rollup, Gulp
+  - yarn & npm
+  - Figma

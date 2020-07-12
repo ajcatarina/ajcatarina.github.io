@@ -1,0 +1,65 @@
+projects:
+  - id: home-workout-app
+    name: Home Workout App
+    description: This app is blah blah.
+    contribution: 'For this app, I manage the frontend...'
+    role: 'Core Frontend, Full Stack'
+    tech:
+      - React
+      - Ionic 4
+      - Serverless Framework
+  - id: data-management-app
+    name: Data Management App
+    role: 'Core Frontend, Full Stack'
+    tech:
+      - React
+      - Express
+      - AWS DynamoDB
+  - id: data-management-app
+    name: Data Management App
+    role: 'Core Frontend, Full Stack'
+    tech:
+      - React
+      - Express
+      - AWS DynamoDB
+  - id: workout-player
+    name: Workout Player
+    role: Frontend
+    tech:
+      - React
+  - id: fitness-app
+    name: Fitness App
+    role: 'Frontend, Full Stack'
+    tech:
+      - React
+      - Serverless Framework
+  - id: frontend-framework
+    name: Frontend Framework
+    role: Full Stack
+    tech:
+      - React
+      - webpack
+      - Rollup
+      - Click
+  - id: photo-sharing-app
+    name: Photo Sharing App
+    role: Full Stack
+    tech:
+      - React
+      - Django
+      - AWS S3
+      - MongoDB
+  - id: freelancing-web-app
+    name: Freelancing Web App
+    role: Full Stack
+    tech:
+      - React
+      - AWS Amplify
+      - Python
+  - id: audit-app
+    name: Audit App
+    role: 'Core Frontend, Full Stack'
+    tech:
+      - React
+      - AWS Amplify
+      - Python
