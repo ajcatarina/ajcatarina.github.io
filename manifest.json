@@ -1,0 +1,9 @@
+{
+  "name": "AJ Catarina",
+  "short_name": "Web Page & Mini Apps",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007acc",
+  "icons": []
+}
