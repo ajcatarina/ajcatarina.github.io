@@ -1,7 +1,8 @@
-const CACHE_NAME = 'offline-cache-v1';
+const CACHE_NAME = 'offline-cache-v2';
 const URLS_TO_CACHE = [
   './',
   './index.html',
+  './pitch-calc.html',
   './manifest.json'
 ];
 
