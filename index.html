@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AJ Catarina</title>
+     <link rel="manifest" href="manifest.json" />
 </head>
 
 <body>
@@ -44,6 +45,17 @@
     <a href="mailto:ajcatarina@outlook.com">Email me</a>
     <a href="https://www.linkedin.com/in/ajcatarina/" target="_blank">Connect with me on LinkedIn</a>
     <p>Updated on October 2025 • This website is not broken. Just can't be bothered with CSS atm.</p>
+
+    <script>
+        function showMsg() {
+            document.getElementById('msg').textContent = "You're running offline!";
+        }
+
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./service-worker.js')
+                .then(() => console.log('Service Worker Registered'));
+        }
+    </script>
 </body>
 
 </html>
